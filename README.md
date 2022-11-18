@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🕊️
 
 #### I am Yiorgos - A React Developer based in Amsterdam
 
