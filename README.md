@@ -3,7 +3,7 @@
 #### I am Yiorgos - A React Developer based in Amsterdam
 
 - 🌿 Currently building a decentralized social media app on Lens with ⚛️ React
-- 📖 I’m currently learning Typescript
+- 📖 Learning Typescript
 - 👯 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: I enjoy taking breaks for yoga 🧘‍♂️ and meditation
 - 📫 How to reach me: Drop me a DM on Twitter
