@@ -15,6 +15,6 @@
 <a href="#"><img src="https://www.codewars.com/users/yogiyiorgos/badges/large" alt="codewars" border="0"></a>
 ---
 ### Latest attendance
-<a href="#"><img src="https://postimg.cc/yDfYHhgv" alt="nodejs badge" border="0" style="width:400px;"></a>
+<a href="#"><img src="[https://postimg.cc/yDfYHhgv](https://ibb.co/VHGXDWB)" alt="nodejs badge" border="0" style="width:400px;"></a>
 <a href="#"><img src="https://i.ibb.co/4421fZt/nextjs.png" alt="nextjs" border="0" style="width:400px;"></a>
 
