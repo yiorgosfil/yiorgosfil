@@ -16,5 +16,6 @@
 ---
 ### Latest attendance
 [node-congress-badge.png](https://postimg.cc/yDfYHhgv)
+<a href="#"><img src="https://i.postimg.cc/VNwSXDYQ/node-congress-badge.png: alt="nodejs badge" border="0" style="width:400px;"></a>
 <a href="#"><img src="https://i.ibb.co/4421fZt/nextjs.png" alt="nextjs" border="0" style="width:400px;"></a>
 
