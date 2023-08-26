@@ -3,13 +3,13 @@
 #### I am Yiorgos - A Fullstack Developer settled in Amsterdam
 
 - 🌿 Currently building a web app for project and inventory management with ⚛️ React and NodeJS.
-- 📖 Learning Typescript
+- 📖 Learning Python
 - 👯 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: I enjoy taking breaks for yoga 🧘‍♂️ and meditation
 - 📫 How to reach me: Drop me a DM on Twitter @YogiYiorgos
 ---
 ### My tech stack
-[![My tech stack](https://skills.thijs.gg/icons?i=js,react,mongodb,nodejs,next,tailwind,typescript,git)](https://skills.thijs.gg)
+[![My tech stack](https://skills.thijs.gg/icons?i=js,react,python,mongodb,nodejs,next,tailwind,typescript,git)](https://skills.thijs.gg)
 ---
 ### Having fun while practicing
 <a href="#"><img src="https://www.codewars.com/users/yogiyiorgos/badges/large" alt="codewars" border="0"></a>
