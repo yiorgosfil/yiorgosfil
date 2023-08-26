@@ -9,7 +9,7 @@
 - 📫 How to reach me: Drop me a DM on Twitter @YogiYiorgos
 ---
 ### My tech stack
-[![My tech stack](https://skills.thijs.gg/icons?i=js,react,python,mongodb,nodejs,next,tailwind,typescript,git)](https://skills.thijs.gg)
+[![My tech stack](https://skills.thijs.gg/icons?i=js,react,python,mongodb,nodejs,next,tailwind,typescript,git,vim)](https://skills.thijs.gg)
 ---
 ### Having fun while practicing
 <a href="#"><img src="https://www.codewars.com/users/yogiyiorgos/badges/large" alt="codewars" border="0"></a>
