@@ -7,6 +7,7 @@
 📖 I'm in the process of learning Python for back-end applications.
 ⚡ Fun fact: I find relaxation in yoga 🧘‍♂️ and meditation during my breaks.
 📫 Feel free to get in touch by sending me a direct message on Twitter @YogiYiorgos.
+
 ---
 ### My tech stack
 [![My tech stack](https://skills.thijs.gg/icons?i=js,react,python,mongodb,nodejs,next,tailwind,typescript,git,neovim)](https://skills.thijs.gg)
