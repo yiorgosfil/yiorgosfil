@@ -2,11 +2,11 @@
 
 #### I am Yiorgos - A Fullstack Developer settled in Amsterdam
 
- I'm presently developing a personal project—a web app for project and inventory management—using ⚛️ React and NodeJS.
-🌿 I'm also broadening my skills in Next.js by working on an Airbnb clone.
-📖 I'm in the process of learning Python for back-end applications.
-⚡ Fun fact: I find relaxation in yoga 🧘‍♂️ and meditation during my breaks.
-📫 Feel free to get in touch by sending me a direct message on Twitter @YogiYiorgos.
+- I'm presently developing a personal project—a web app for project and inventory management—using ⚛️ React and NodeJS.
+- 🌿 I'm also broadening my skills in Next.js by working on an Airbnb clone.
+- 📖 I'm in the process of learning Python for back-end applications.
+- ⚡ Fun fact: I find relaxation in yoga 🧘‍♂️ and meditation during my breaks.
+- 📫 Feel free to get in touch by sending me a direct message on Twitter @YogiYiorgos.
 
 ---
 ### My tech stack
