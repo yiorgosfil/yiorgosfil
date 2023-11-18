@@ -18,8 +18,3 @@
 ### Latest attendances
 <a href="#"><img src="https://i.ibb.co/g9CVgxH/Yogi-Yiorgos-s-ticket-to-Hashnode-Bootcamp.png" alt="Hashnode-Bootcamp" border="0" style="width:400px; height:210px"></a>
 <a href="#"><img src="https://i.ibb.co/bzQQ8MB/new-Next-Badge-II.png" alt="new-Next-Badge-II" border="0" style="width:400px; height:210px"></a>
-<a href="#"><img src="https://i.ibb.co/LC3L6Nf/nodejs-Badge.png" alt="nodejs badge" border="0" style="width:400px; height:210px;"></a>
-<a href="#"><img src="https://i.ibb.co/4421fZt/nextjs.png" alt="nextjs" border="0" style="width:400px; height:210px;"></a>
-
-
-
