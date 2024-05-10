@@ -10,7 +10,7 @@
 
 ---
 ### My tech stack
-[![My tech stack](https://skills.thijs.gg/icons?i=js,react,python,bash,electron,vite,mongodb,nodejs,express,next,tailwind,typescript,linux,git,neovim)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,react,python,bash,electron,vite,mongodb,nodejs,express,next,tailwind,typescript,linux,git,neovim)](https://skillicons.dev)
 ---
 ### Having fun while practicing
 <a href="#"><img src="https://www.codewars.com/users/yogiyiorgos/badges/large" alt="codewars" border="0"></a>
