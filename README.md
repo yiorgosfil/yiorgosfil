@@ -1,10 +1,10 @@
 ### Hi there 🕊️
 
-#### I am Yiorgos - Software Developer settled in Amsterdam
+#### I am Yiorgos - Fullstack Web Developer and Indie Hacker settled in Amsterdam
 
-- I'm presently developing a personal project—a web app for project and inventory management—using ⚛️ React and NodeJS.
-- ⚡ Fun fact: I find relaxation in yoga 🧘‍♂️ and meditation during my breaks.
-- 📫 Feel free to get in touch by sending me a direct message on Twitter @YogiYiorgos.
+- Bootstrapping __ReferNest__
+- I find relaxation in yoga 🧘‍♂️ and meditation.
+- 📫 Feel free to get in touch by sending me a direct message on Twitter @YiorgosFil.
 
 ---
 ### My tech stack
