@@ -7,8 +7,8 @@
 - 📫 Feel free to get in touch by sending me a direct message on Twitter @YiorgosFil.
 
 ---
-### My tech stack
-[![My Skills](https://skillicons.dev/icons?i=js,php,linux,bash,nodejs,git,neovim)](https://skillicons.dev)
+### My crafting tools
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,php,mysql,bash,linux,git,md,neovim,helix)](https://skillicons.dev)
 ---
 ### Having fun while practicing
 <a href="#"><img src="https://www.codewars.com/users/yogiyiorgos/badges/large" alt="codewars" border="0"></a>
