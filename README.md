@@ -2,9 +2,9 @@
 
 #### I am Yiorgos - Fullstack Web Developer and Indie Hacker settled in Amsterdam
 
-- Bootstrapping __ReferNest__ - A secure hub for quick document referencing. Store, access, and organize files effortlessly.
+- Bootstrapping [__ReferNest__](https://refernest.xyz/) - A secure hub for quick document referencing. Store, access, and organize files effortlessly.
 - I find relaxation in yoga and meditation.
-- Feel free to get in touch by sending me a direct message on Twitter @YiorgosFil.
+- Feel free to get in touch by sending me a direct message on Twitter [@YiorgosFil](https://x.com/YiorgosFil).
 
 ---
 ### My crafting tools
