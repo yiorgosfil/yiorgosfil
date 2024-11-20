@@ -13,3 +13,8 @@
 ### Having fun while practicing
 <a href="#"><img src="https://www.codewars.com/users/yogiyiorgos/badges/large" alt="codewars" border="0"></a>
 ---
+
+
+
+
+![Visitors](https://img.shields.io/badge/Visitors-123-blue)
