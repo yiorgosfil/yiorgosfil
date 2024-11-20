@@ -3,8 +3,8 @@
 #### I am Yiorgos - Fullstack Web Developer settled in Amsterdam
 
 - Bootstrapping [__ReferNest__](https://refernest.xyz/) - A secure hub for quick document referencing. Store, access, and organize files effortlessly.
-- I find relaxation in yoga and meditation.
-- Feel free to get in touch by sending me a direct message on Twitter [@YiorgosFil](https://x.com/YiorgosFil).
+- In my free time I find relaxation in yoga and meditation.
+
 
 ---
 ### My crafting tools
@@ -17,4 +17,3 @@
 
 
 
-![Visitors](https://img.shields.io/badge/Visitors-123-blue)
