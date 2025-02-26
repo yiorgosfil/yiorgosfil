@@ -2,7 +2,7 @@
 
 #### I am Yiorgos - Fullstack Web Developer settled in Amsterdam
 
-- Bootstrapping [__ReferNest__](https://refernest.xyz/) - A secure hub for quick document referencing. Store, access, and organize files effortlessly.
+- Building [__ReferNest__](https://refernest.xyz/) - A secure hub for quick document referencing. Store, access, and organize files effortlessly.
 - In my free time I find relaxation in yoga and meditation.
 
 
